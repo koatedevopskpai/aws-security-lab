@@ -10,7 +10,7 @@
 | 1.2 Shared modules | ✅ Complete | `shared/scripts/cleanup.ps1`, `shared/templates/module-scaffold.md` |
 | 1.3 AWS Terraform IaC | 📋 Planned | `terraform/*.tf` — VPC, subnets, SGs, NACLs, NAT Gateway, bastion |
 | 1.4 AWS docs | 📋 Planned | Architecture guide, cost analysis, guided walkthrough |
-| 1.5 Git repository | 📋 Planned | Initialize git, commit, push to `github.com/koate-kpai/aws-security-lab` |
+| 1.5 Git repository | 📋 Planned | Initialize git, commit, push to `github.com/koatedevopskpai/aws-security-lab` |
 
 ## Key Decisions Made
 

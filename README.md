@@ -28,7 +28,7 @@ This repo maps the following 300-745 domains into practical AWS implementations:
 
 ```powershell
 # Clone the repo
-git clone https://github.com/koate-kpai/aws-security-lab.git
+git clone https://github.com/koatedevopskpai/aws-security-lab.git
 cd aws-security-lab
 
 # Navigate to a module
